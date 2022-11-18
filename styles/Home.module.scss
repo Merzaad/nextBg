@@ -10,9 +10,9 @@
   height: 250px;
   color: transparent;
 
-}
+  &:hover {
+    color: white;
 
-.hello:hover {
-  color: white;
-}
+  }
 
+}

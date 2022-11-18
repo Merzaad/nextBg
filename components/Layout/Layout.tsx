@@ -1,5 +1,5 @@
 import { ReactElement } from 'react'
-import styles from '../../styles/Layout.module.css'
+import styles from '../../styles/Layout.module.scss'
 
 export default function Layout({ children }: { children: ReactElement }) {
   return (
